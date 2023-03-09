@@ -29,9 +29,9 @@ Dentro dessas funcionalidades temos as seguintes necessidades:
 
 - Ao cadastrar o Ponto turistico desejo informar alem do País, a cidade, o nome do ponto turístico, qual a melhor estação para visita-la e desejo ver um resumo do Ponto turístico.
 
-- Cada ponto turistico poderá ter vários comentários. Cada comentário deverá mostrar o Nome do auto, o comentário e a data em que foi criado.
+- Cada ponto turistico poderá ter vários comentários. Cada comentário deverá mostrar o Nome do autor, o comentário e a data em que foi criado.
 
-- Se possível gostaria de visualizar a lista de comentários sempre que entrar em um ponto turístico e se não houver um ponto turístico, que a pagina me convide a ser o primeiro a comentar sobre o lugar.
+- Se possível gostaria de visualizar a lista de comentários sempre que entrar em um ponto turístico e se não houver um comentário, que a pagina me convide a ser o primeiro a comentar sobre o lugar.
 
 
 ## Como deverá ser entregue o projeto
